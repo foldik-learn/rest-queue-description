@@ -8,6 +8,6 @@ Sends messages to another application.
 
 Store messages and sends it to a regiestered component.
 
-## 3. Consumer
+## 3. [Consumer](https://github.com/foldik-learn/foldik-consumer)
 
 Register itself to the Queue application and receives messages.
